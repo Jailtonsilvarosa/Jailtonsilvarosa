@@ -4,7 +4,9 @@ Meu nome é Jailton, estou cursando 3º Semestre da Faculdade de Engenharia de S
 <br>
 <br>
 
+## 🛠️ Tecnologias e Ferramentas
 
+<p align="left">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,5 +25,3 @@ Meu nome é Jailton, estou cursando 3º Semestre da Faculdade de Engenharia de S
 
 
 <a href="https://www.linkedin.com/in/sjailton">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
