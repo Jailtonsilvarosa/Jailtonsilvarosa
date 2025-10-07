@@ -22,6 +22,6 @@ Meu nome é Jailton, estou cursando 3º Semestre da Faculdade de Engenharia de S
 <br>
 
 
-<a href="www.linkedin.com/in/sjailton">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/sjailton">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
